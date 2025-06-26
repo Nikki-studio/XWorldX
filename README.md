@@ -1,6 +1,6 @@
 <div align="center">
     <img src="textures/base/pack/logo.png" width="32%">
-    <h1>Luanti (formerly Minetest)</h1>
+    <h1>XWorldX</h1>
     <img src="https://github.com/luanti-org/luanti/workflows/build/badge.svg" alt="Build Status">
     <a href="https://hosted.weblate.org/engage/minetest/?utm_source=widget"><img src="https://hosted.weblate.org/widgets/minetest/-/svg-badge.svg" alt="Translation status"></a>
     <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html"><img src="https://img.shields.io/badge/license-LGPLv2.1%2B-blue.svg" alt="License"></a>
@@ -147,3 +147,8 @@ minor/trivial features considered necessary.
 Since 5.0.0-dev and 0.4.17-dev, the dev notation refers to the next release,
 i.e.: 5.0.0-dev is the development version leading to 5.0.0.
 Prior to that we used `previous_version-dev`.
+
+build on [Luanti(Formerly Minetest)](https://github.com/minetest/minetest)
+
+
+by `Copyright (C) 2010-2025 Perttu Ahola <celeron55@gmail.com> and contributors (see source file comments and the version control log)`
